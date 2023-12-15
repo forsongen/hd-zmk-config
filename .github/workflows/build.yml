@@ -5,9 +5,10 @@ on:
     paths:
       - config/west.yml
       - config/*.keymap
-      - config/*.dtsi
       - config/*.conf
       - config/boards/**
+      - config/core/*
+      - config/layers/*
       - build.yaml
 
 jobs:
