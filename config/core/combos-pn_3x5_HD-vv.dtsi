@@ -16,7 +16,7 @@ COMBO_LAYER(pnWell,  &typePnWell,  RB2 LB3, BASE)    // "We'll"
 COMBO_LAYER(pnWeve,  &typePnWeve,  RB2 LB5, BASE)    // "We've"
 COMBO_LAYER(pnWed,   &typePnWed,   RB2 LB2, BASE)    // "We'd"
 
-COMBO_LAYER(pn2s,    &typePnYou    RB4 LM2, BASE)    // "You"
+COMBO_LAYER(pn2s,    &typePnYou,    RB4 LM2, BASE)    // "You"
 COMBO_LAYER(pn2o,    &typePnYou,   RB4 LM3, BASE)    // "You" !! DUPE
 COMBO_LAYER(pn2p,    &typePnYour,  RB4 LB4, BASE)    // "Your"
 COMBO_LAYER(pn2pp,   &typePnYours, RB4 LB5 LB4, BASE) // "Yours"
