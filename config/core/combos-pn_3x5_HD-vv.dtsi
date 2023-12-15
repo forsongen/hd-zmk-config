@@ -1,4 +1,4 @@
-COMBO_LAYER(pn1s,    &kp LS(I)     RM4 LM2, BASE)    // "I"
+COMBO_LAYER(pn1s,    &kp LS(I),     RM4 LM2, BASE)    // "I"
 COMBO_LAYER(pn1o,    &typePnMe,    RM4 LM3, BASE)    // "Me"
 COMBO_LAYER(pn1p,    &typePnMy,    RM4 LB4, BASE)    // "My"
 COMBO_LAYER(pn1pp,   &typePnMine,  RM4 LB4 LB3, BASE) // "Mine"
