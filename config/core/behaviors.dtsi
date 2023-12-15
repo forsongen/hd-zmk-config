@@ -172,7 +172,7 @@ behaviors {
             compatible = "zmk,behavior-mod-morph";
             label = "SYS_BspcDel";
             #binding-cells = <0>;
-            bindings = <&lt SYS BACKSPACE>, <&kp DELETE>;
+            bindings = <&lt SYS BSPC>, <&kp DEL>;
             mods = <(MOD_LSFT|MOD_RSFT)>;
         };
         SpaceTab: SpaceTab {

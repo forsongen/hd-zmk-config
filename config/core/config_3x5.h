@@ -78,7 +78,7 @@
 #define NAV   1
 #define SYM   2
 #define NUM   3
-#define FUN   4
+#define SYS   4
 
 // TAPPING TERMS
 
