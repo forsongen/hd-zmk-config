@@ -614,7 +614,7 @@ macros {
                     , <&macro_release &kp RSHFT>
                     , <&macro_tap &kp H &kp E &kp Y &kp APOS &kp L &kp L>;
         };
-        typePnWeve: pnTheyve {
+        typePnTheyve: pnTheyve {
             label = "pnTheyve";
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
@@ -625,7 +625,7 @@ macros {
                     , <&macro_release &kp RSHFT>
                     , <&macro_tap &kp H &kp E &kp Y &kp APOS &kp V &kp E>;
         };
-        typePnWed: pnTheyd {
+        typePnTheyd: pnTheyd {
             label = "pnTheyd";
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
