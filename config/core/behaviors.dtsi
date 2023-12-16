@@ -208,14 +208,14 @@ behaviors {
         };
         SymLock: SymLock {
             compatible = "zmk,behavior-tap-dance";
-            label = "SymLock"
+            label = "SymLock";
             #binding-cells = <0>;
             tapping-term-ms = <my_tapping_term>;
             bindings = <&l_to NUM SYM>, <&to BASE>;
         };
         NumLock: NumLock {
             compatible = "zmk,behavior-tap-dance";
-            label = "NumLock"
+            label = "NumLock";
             #binding-cells = <0>;
             tapping-term-ms = <my_tapping_term>;
             bindings = <&to NUM>, <&to BASE>;
